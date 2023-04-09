@@ -1,10 +1,10 @@
 # autobillcode
 
-##Server Side API
+## Server Side API
 - /Capture
 
 
 
-##Client Side Website
+## Client Side Website
 - Capture Button
 - QR Code
